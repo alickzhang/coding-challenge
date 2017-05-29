@@ -21,3 +21,7 @@ Thanks!
 - [ ] Visually group list items and label groups by day i.e. 17th January 2017
 - [ ] Provide a button that allows the user to remove a specific item from the list
 - [ ] Provide a button that allows the user to add single generated item to the list
+
+## Outcome
+
+Please open public/index.html in the browser to view the outcome, thank you!
